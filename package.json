@@ -1,5 +1,6 @@
 {
   "name": "gh-page-deploy",
+  "homepage": "https://jayromulus.io/gh-page-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +17,6 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "homepage": "https://jayromulus.github.io/gh-page-deploy",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
