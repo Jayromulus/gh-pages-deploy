@@ -1,6 +1,6 @@
 {
   "name": "gh-page-deploy",
-  "homepage": "https://jayromulus.io/gh-page-deploy",
+  "homepage": "https://jayromulus.github.io/gh-page-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
