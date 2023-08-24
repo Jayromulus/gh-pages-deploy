@@ -9,14 +9,14 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Hopefully this will show up</p>
+        <p>Here it is, definitely works</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Who needs react anyways?
         </a>
       </header>
     </div>
